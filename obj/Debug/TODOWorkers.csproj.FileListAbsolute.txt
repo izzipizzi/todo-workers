@@ -1,0 +1,11 @@
+C:\Users\kirch\source\repos\TODOWorkers\bin\Debug\TODOWorkers.exe.config
+C:\Users\kirch\source\repos\TODOWorkers\bin\Debug\TODOWorkers.exe
+C:\Users\kirch\source\repos\TODOWorkers\bin\Debug\TODOWorkers.pdb
+C:\Users\kirch\source\repos\TODOWorkers\obj\Debug\TODOWorkers.csprojAssemblyReference.cache
+C:\Users\kirch\source\repos\TODOWorkers\obj\Debug\TODOWorkers.Check.resources
+C:\Users\kirch\source\repos\TODOWorkers\obj\Debug\TODOWorkers.Form1.resources
+C:\Users\kirch\source\repos\TODOWorkers\obj\Debug\TODOWorkers.Properties.Resources.resources
+C:\Users\kirch\source\repos\TODOWorkers\obj\Debug\TODOWorkers.csproj.GenerateResource.cache
+C:\Users\kirch\source\repos\TODOWorkers\obj\Debug\TODOWorkers.csproj.CoreCompileInputs.cache
+C:\Users\kirch\source\repos\TODOWorkers\obj\Debug\TODOWorkers.exe
+C:\Users\kirch\source\repos\TODOWorkers\obj\Debug\TODOWorkers.pdb
